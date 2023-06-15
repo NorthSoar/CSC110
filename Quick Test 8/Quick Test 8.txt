@@ -1,0 +1,11 @@
+Write a Python graphics program, using graphics.py from Chapter 4 of our textbook, to draws the following shape:
+
+window size: 250 x 250 pixels with window title with your name
+big circle, 60 pixels radius with center at (125, 125)
+two green circles, 12 pixels radius; first one centered at (113, 113) and second centered at (137, 113)
+one red line, from (100, 150) to (150, 150)
+Then answer this, what do you see? (make this a comment in your code)
+
+Submit your code (as a Python module)
+
+Attach your Python module when submitting this QT.
